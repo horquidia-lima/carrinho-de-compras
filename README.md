@@ -9,3 +9,8 @@ RocketShoes
 - Typescript
 - json
 - jest
+
+💻 Ejecutar
+- yarn server
+- yarn start
+
